@@ -72,7 +72,10 @@ python chapati_roundness.py
 For Software:
 
 # Screenshots
-
+<img width="1920" height="1080" alt="frame (3)" src="https://github.com/Hannath03/Round-aano-/blob/main/1.png" />
+<img width="1920" height="1080" alt="frame (3)" src="https://github.com/Hannath03/Round-aano-/blob/main/2.png" />
+<img width="1920" height="1080" alt="frame (3)" src="https://github.com/Hannath03/Round-aano-/blob/main/3.png" />
+<img width="1920" height="1080" alt="frame (3)" src="https://github.com/Hannath03/Round-aano-/blob/main/4.png" />
 
 
 
